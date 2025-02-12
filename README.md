@@ -1,1 +1,3 @@
-This ius mt firsty repo on git 
+This ius my first repo on git 
+<br>
+Author - Arun Gangwar
